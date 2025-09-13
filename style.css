@@ -1,0 +1,38 @@
+#outer
+{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(175, 143, 238);
+    margin: 0px auto;
+    border: 1px solid rgb(95, 92, 247);
+    border-radius: 20px;
+}
+#box
+{
+    height: 250px;
+    width: 250px;
+    margin: 50px auto;
+    border-radius: 50%; 
+    border: 1px solid rgb(74, 45, 238);
+    text-align: center;
+    background-image: url(../images/download\ \(2\).jpg);
+
+}
+#btn
+{
+    height: 30px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 0px auto;
+}
+#btn .fa-pause
+{
+    display: none;
+}
+#Artist
+{
+    text-align: center;
+    margin-top: -9x;
+}
